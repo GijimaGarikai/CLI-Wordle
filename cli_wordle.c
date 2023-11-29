@@ -240,7 +240,6 @@ void play_game(const char *target) {
 }
 
 int main (int argc, char* argv[]) {
-  // boiler plate code for File I/O taken from past lab/reading
   if (argc != 2) {
     fprintf(stderr, "Usage: %s filename\n", argv[0]);
     return EXIT_FAILURE;
