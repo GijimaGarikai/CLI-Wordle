@@ -38,7 +38,7 @@ The program expects a file containing a list of words as input. The words should
 
 - The target word is randomly chosen from the input word list.
 - The player has 6 attempts to guess the word.
-- After each guess, the program provides feedback using 'g' (correct letter and position), 'y' (correct letter but wrong position), and 'x' (incorrect letter).
+- After each guess, the program provides feedback using different color backgrounds for each character. Green for correct letter and position, yellow for correct letter but wrong position, and no color for an incorrect letter. 
 - The game ends when the correct word is guessed or after 6 attempts.
 
 ## Summary Report
