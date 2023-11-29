@@ -22,7 +22,7 @@ Make sure you have a C compiler installed on your system.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/wordle-game.git
+git clone https://github.com/your-username/CLI-Wordle.git
 ```
 
 ## How to Play
